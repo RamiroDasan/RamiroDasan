@@ -1,15 +1,13 @@
 <img align="right" height="590em" src="https://github.com/RamiroDasan/RamiroDasan/blob/f2372e23d62a6ccfb0168ce85aee2f2a6555c02b/git%20cracha.png"/>
 <h1 align="left">Hi dear <img src="https://github.com/RamiroDasan/RamiroDasan/blob/6d0b61759aeddd7e3621c3e3f2620274821fa646/giphy%20(1).gif" width="30px">, I'm Ramiro Dasan</h1>
 
-
-
 - 📚 I’m currently studying front-end on [Rocketseat](https://github.com/Rocketseat)
 
 - 🚘 I work as an executive driver with this car [Virtus_Rline_am](https://www.instagram.com/virtus_rline_am/)
 
 - 🎮🕹 Gamer in the spare time 
 
-<br>
+
     
 ## 💻💾 &nbsp;Learning
 
@@ -17,18 +15,26 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
-<br>
+
 
 ## ⚙️ &nbsp;GitHub Analytic
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamiroDasan&theme=algolia&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamiroDasan&layoutcompact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
 
-## 😎 &nbsp;Social Link
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RamiroDasan&theme=algolia&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiroDasan&layoutcompact&theme=algolia" />
+</a>
 
-<p align="left" style="background:blue">
+
+
+
+
+## 😎 &nbsp;Social Links
+
+<p align="right" style="background:blue">
 <a href="https://twitter.com/LeonMafia1" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-RamiroDasan-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>

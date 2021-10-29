@@ -16,6 +16,21 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 <br>
+
+## 😎 &nbsp;Social Links
+
+<p align="right" style="background:blue">
+<a href="https://twitter.com/LeonMafia1" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-RamiroDasan-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://www.linkedin.com/in/ramiro-dasan-aa275393/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-RamiroDasan-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/ramiro_dasan/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-RamiroDasan-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+  
+
     
 
 ## ⚙️ &nbsp;GitHub Analytic
@@ -33,19 +48,6 @@
 
 
 
-## 😎 &nbsp;Social Links
-
-<p align="right" style="background:blue">
-<a href="https://twitter.com/LeonMafia1" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-RamiroDasan-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://www.linkedin.com/in/ramiro-dasan-aa275393/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-RamiroDasan-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/ramiro_dasan/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-RamiroDasan-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-  
 
 
 <!--

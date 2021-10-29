@@ -29,10 +29,7 @@
 <a href="https://www.instagram.com/ramiro_dasan/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-RamiroDasan-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-  
-
-    
-
+  <br>
 ## ⚙️ &nbsp;GitHub Analytic
 
 

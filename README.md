@@ -20,7 +20,7 @@
 ## 😎 &nbsp;Social Links
 
 <p align="right" style="background:blue">
-<a href="https://twitter.com/LeonMafia1" target="_blank">
+<a href="https://twitter.com/Ramiro_Dasan" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-RamiroDasan-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://www.linkedin.com/in/ramiro-dasan-aa275393/" target="_blank">

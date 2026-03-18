@@ -3,7 +3,7 @@
 
 - 📚 I’m currently studying front-end on [Rocketseat](https://github.com/Rocketseat)
 
-- 🚘 I work as an executive driver with this car [Virtus_Rline_am](https://www.instagram.com/virtus_rline_am/)
+- 🧑‍💻 Aspiring Developer | Turning ideas into code, one step at a time
 
 - 🎮🕹 Gamer in the spare time 
 

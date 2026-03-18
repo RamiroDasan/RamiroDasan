@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://github.com/RamiroDasan/RamiroDasan/blob/f2372e23d62a6ccfb0168ce85aee2f2a6555c02b/git%20cracha.png"/>
+<img align="right" height="590em" src="https://github.com/RamiroDasan/RamiroDasan/blob/main/cracha%20.png"/>
 <h1 align="left">Hi dear <img src="https://github.com/RamiroDasan/RamiroDasan/blob/6d0b61759aeddd7e3621c3e3f2620274821fa646/giphy%20(1).gif" width="30px">, I'm Ramiro Dasan</h1>
 
 - 📚 I’m currently studying front-end on [Rocketseat](https://github.com/Rocketseat)
